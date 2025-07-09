@@ -1,6 +1,8 @@
 {
   "files.associations": {
     "Hellow.C": "cpp",
-    "tempCodeRunnerFile.C": "cpp"
+    "tempCodeRunnerFile.C": "cpp",
+    "hello1.C": "cpp",
+    "variable.C": "cpp"
   }
 }
